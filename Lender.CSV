@@ -1,0 +1,16 @@
+lender_id,name,book_id,date_borrowed,penalty
+10053,Bob,,,9.0
+10055,Mary,,,7002.0
+10057,Annie,,,
+10060,Joy,,,
+10062,Ron,,,
+10063,Jess,,,
+10064,Bob,,,
+10066,Minnie,,,0.0
+10067,Layla,,,8.0
+10068,Rhonda,7711459,5/5/2021,
+10069,Timmy,200002,12/21/2021,
+10071,Emily Grace,10064,3/7/2021,
+10072,Rosie Clara,,,
+10073,Trina Fan,,,8.0
+

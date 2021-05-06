@@ -1,0 +1,6 @@
+{
+  "lender_file_name": "data\\lenders.json",
+  "lender_config_file_name": "config\\lender_config.json",
+  "book_file_name": "data\\books.json",
+  "book_config_file_name": "config\\book_config.json"
+}
